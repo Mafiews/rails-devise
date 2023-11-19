@@ -13,6 +13,13 @@ class PagesController < ApplicationController
   end
 
   def update
+
+
+
+    # something else
+    
+
+
     
   end
 end
