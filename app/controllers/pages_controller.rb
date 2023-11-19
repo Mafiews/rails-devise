@@ -13,6 +13,11 @@ class PagesController < ApplicationController
   end
 
   def update
+
+
+
+
+    # also something complicated
     
   end
 end
